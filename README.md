@@ -28,4 +28,14 @@ Tools Used:
 - State-wise comparison
 - Correlation analysis
 -----------------------------------------------------------------------
-
+Task 3: Car Price Prediction using ML
+To predict car selling price using machine learning based on car features like year, brand, kilometers driven, fuel type, etc.
+Tools Used:
+Python, Pandas, NumPy, Scikit-learn, Matplotlib
+process:
+Dataset loaded and cleaned
+Missing values handled
+Categorical data converted into numbers
+Data split into training and testing sets
+Linear Regression model trained
+Model evaluated using MAE, MSE, R2 Score
