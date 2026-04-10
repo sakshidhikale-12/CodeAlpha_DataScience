@@ -1,4 +1,4 @@
-Task 1: Iris Classification
+Task 1: Iris flower Classification
 To classify Iris flower species using machine learning.
 Tools Used:
 - Python
@@ -6,14 +6,12 @@ Tools Used:
 - Scikit-learn
 - Seaborn
 
-Work Done by follwing methods:
+ methods used:
 - Data exploration and statistics
 - Train-test split
 - Model training using Decision Tree
 - Accuracy evaluation
 - Data visualization using pairplot
-Model Used:
-Decision Tree Classifier
 --------------------------------------------------------------
 Task 2:Unemployment Analysis
 To analyze unemployment trends in India and study the impact of COVID-19.
@@ -39,3 +37,15 @@ Categorical data converted into numbers
 Data split into training and testing sets
 Linear Regression model trained
 Model evaluated using MAE, MSE, R2 Score
+
+---------------------------------------------------------------------
+
+Task 4:Sales Prediction using Python
+To predict future sales based on advertising spend on TV, Radio, and Newspaper using Machine Learning (Linear Regression)
+Tools & Libraries Used :
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
